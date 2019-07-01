@@ -8,8 +8,7 @@
 In this lab, we will learn how to manipulate strings. We will combine strings, split them apart, and use regular expressions to filter strings.
 
 ## Getting Started
-
-Open the `main.ipynb` file in the `your-code` directory. Follow the instructions and add your code and explanations as necessary. By the end of this lab, you will have learned about string manipulation and regular expressions.
+asdasdtions and add your code and explanations as necessary. By the end of this lab, you will have learned about string manipulation and regular expressions.
 
 ## Deliverables
 
